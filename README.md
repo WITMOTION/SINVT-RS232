@@ -1,4 +1,4 @@
-# SINRT-RS232
+# SINVT-RS232
 Developed tutorial: providing manual, datasheet, free software for Windows computer
 
 RELEASE NOTES
@@ -18,17 +18,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/SINRT-RS232
+https://github.com/WITMOTION/SINVT-RS232
 
 Google Drive: 
-https://drive.google.com/drive/folders/1kDU9WZg5AKykH7-iNGe94PJZvt40EGYT?usp=sharing
+https://drive.google.com/drive/folders/1-yYjhIaSZ8qJHSHKNmxezZx4jesxlHoA?usp=sharing
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-SINRT-RS232 Playlist: 
-https://www.youtube.com/playlist?list=PL43tdDrVL_VCpqK0qo8JLxlvgNavj2pcM
+SINVT-RS232 Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VBJn7ET9axVYAGfgp0ylleB
 
 -----------
 After-sale Service& Technical Support: 
